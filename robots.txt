@@ -1,0 +1,3 @@
+User-agent: *
+Allow: *
+Sitemap: https://rabona-playcasino.org/sitemap_index.xml
